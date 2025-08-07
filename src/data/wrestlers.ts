@@ -117,7 +117,7 @@ export const wrestlers: Wrestler[] = [
   {
     id: "kavita-devi",
     name: "Kavita Devi",
-    image: "/placeholder.svg",
+    image: "https://images.unsplash.com/photo-1594736797933-d0200ba8fb53?w=400&h=400&fit=crop",
     description: "India's first female WWE superstar who competed in the Mae Young Classic tournament.",
     socialLinks: [
       {
@@ -135,7 +135,7 @@ export const wrestlers: Wrestler[] = [
   {
     id: "rinku-singh",
     name: "Rinku Singh",
-    image: "/placeholder.svg",
+    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop",
     description: "Rising Indian talent in WWE development system, representing the future of Indian wrestling.",
     socialLinks: [
       {
